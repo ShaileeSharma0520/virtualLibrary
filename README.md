@@ -1,4 +1,4 @@
 # virtualLibrary
-This is a simple SQL-based library that I created for fun
+This is a testing creation
 <br>
 Author - SHAILEE SHARMA
